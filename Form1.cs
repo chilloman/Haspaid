@@ -34,10 +34,5 @@ namespace Haspaid
                 lansw.Text = username + " is not a paid user";
             }
         }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
-        }
     }
 }
